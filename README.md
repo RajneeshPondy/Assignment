@@ -18,7 +18,7 @@ The Atbash cipher is an encryption method in which each letter of a word is repl
 
 
 ```bash
-python run.py path/sampel.csv
+python run.py data.csv
 ```
 
 ## Sample Inputs and Outputs
