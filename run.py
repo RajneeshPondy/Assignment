@@ -79,7 +79,7 @@ class AtbashCipherEncryption(object):
 
 if __name__ == '__main__':
     # To Run Program
-    # >>python read_csv.py csv_file_path
+    # >>python run.py data.csv
     file_path = sys.argv[1]
     obj = AtbashCipherEncryption()
     obj.run_process(file_path)
